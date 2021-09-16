@@ -2,7 +2,6 @@
 Prazer! Christian Oliveira
 </H2>
 
-- 🔭 I’m currently working on ...
 
 <div>
   <a href="https://github.com/oliveira-chr">
